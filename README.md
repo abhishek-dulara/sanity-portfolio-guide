@@ -97,6 +97,6 @@ const myQuery = `*[_type == "project"]{
 Use this data in your code, and you will get a beautiful list of your projects displayed on your screen!
 
 ---
-**© abhishek-dulara**
+**© abhishek-dulara** |
 **Happy Coding**
 
